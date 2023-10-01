@@ -11,5 +11,7 @@
 - Open your project
 - Use a template
 
+![Demo](/Module%20MVP/assets/demo.gif)
+
 ## License
 MVP-Template is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
